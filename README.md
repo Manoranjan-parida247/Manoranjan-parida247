@@ -3,8 +3,7 @@
 
 
 
-
-<p align="left"> <a href="https://twitter.com/munna258369" target="blank"><img src="https://img.shields.io/twitter/follow/munna258369?logo=twitter&style=for-the-badge" alt="munna258369" /></a> </p>
+<br/> <br/>
 
 - 🌱 I’m currently learning **Spring Boot ,  React**
 
