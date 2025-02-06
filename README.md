@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Manoranjan</h1>
+<h1 align="center">Hi! 👋, I'm Manoranjan</h1>
 <h3 align="center">👋 Hello, World! I'm Manoranjan 🚀 Software Developer </h3>
 
 
 
-<br/> <br/>
 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<br/> <br/>
 - 🌱 I’m currently learning **Spring Boot ,  React**
 
 - 💬 Ask me about **React , Spring Boot**
 
 - 📫 How to reach me **manoranjanparida247@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/munna258369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munna258369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manoranjanparida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoranjanparida" height="30" width="40" /></a>
