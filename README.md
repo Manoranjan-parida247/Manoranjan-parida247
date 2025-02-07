@@ -3,8 +3,9 @@
 
 
 
+<img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 <br/> <br/>
 - 🌱 I’m currently learning **Spring Boot ,  React**
 
